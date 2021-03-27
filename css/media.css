@@ -1,0 +1,27 @@
+@media (max-width: 575px){
+    nav{
+        position:static ;
+        background: white;
+        color:  lightblue;
+    }
+    nav a{
+        color: blue;
+        padding: 10px;
+    }
+    header{
+        padding: 100px 0;
+        background-size: cover;
+    }
+    .company img{
+        float: none;
+        width: 300px;
+    }
+    .company p{
+        padding: 0 10px;
+    }
+}
+
+
+
+
+
